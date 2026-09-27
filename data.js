@@ -1,5 +1,5 @@
 window.DO_FUS_DATA={jobs:[
-{id:"alchimiste",name:"Alchimiste",icon:"⚗️",type:"collecte",tip:"Récolte de plantes et fabrication de potions."},
+{id:"alchimiste",name:"Alchimiste",icon:"⚗️",type:"collecte",tip:"Récolte de plantes et fabrication de potions.",steps:["Récolter les ressources de base","Transformer en consommables","Comparer le coût et le prix de vente"]},
 {id:"bucheron",name:"Bûcheron",icon:"🪓",type:"collecte",tip:"Récolte de bois."},
 {id:"chasseur",name:"Chasseur",icon:"🏹",type:"collecte",tip:"Chasse et transformation des viandes."},
 {id:"mineur",name:"Mineur",icon:"⛏️",type:"collecte",tip:"Récolte de minerais."},
